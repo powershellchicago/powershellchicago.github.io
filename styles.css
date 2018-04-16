@@ -1,0 +1,16 @@
+.header {
+    height:40px;
+    background-color:#999;
+  }
+  .contentContainer {
+      display:flex;
+      flex-direction: row;
+  }
+  .left {
+    background-color: #ffaa00;
+    min-width:200px;
+  }
+  .right {
+    background-color: #00aaaa;
+    flex:1;
+  }
