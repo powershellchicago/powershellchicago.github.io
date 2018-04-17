@@ -31,5 +31,6 @@
 }
 #sidebar-left, #main, #sidebar-right{
     min-height: 600px;
-    font:14px Helvetica,Arial,sans-serif;		
+    font:14px Helvetica,Arial,sans-serif;
+    background-color: lightblue;		
 }
