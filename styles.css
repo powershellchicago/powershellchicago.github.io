@@ -7,12 +7,13 @@
 #sidebar-left{
     float:left;
     width:15%;
-    background-color: lightblue;
+    background-color: lightgray;
 }
 #main{
     /* float:left; */
     width:70%;
-    background-color: lightgray;align-self: auto;
+    background-color: lightgray;
+    align-self: auto;
 }
 .h1 {
     font-style: italic;
@@ -20,17 +21,17 @@
 #sidebar-right{
     float:left;
     width:15%;
-    background-color: lightblue;
+    background-color: lightgray;
 }
 #footer{
     clear:both;
     height: 50px;
     width: 100%;
     text-align: center;
-    background-color: lightblue;
+    background-color: lightgray;
 }
 #sidebar-left, #main, #sidebar-right{
     min-height: 600px;
     font:14px Helvetica,Arial,sans-serif;
-    background-color: lightblue;		
+    background-color: lightgray;		
 }
