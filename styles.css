@@ -1,32 +1,32 @@
-#header{
+header{
     background-color: lightblue;
     width:100%;
     height:50px;
     text-align: center;
 }
-#sidebar-left{
+sidebar-left{
     float:left;
     width:15%;
     background-color: red;
 }
-#main{
+main{
     float:left;
     width:70%;
     background-color: lightgray;align-self: auto;
 }
-#sidebar-right{
+sidebar-right{
     float:left;
     width:15%;
     background-color: red;
 }
-#footer{
+footer{
     clear:both;
     height: 50px;
     width: 100%;
     text-align: center;
     background-color: lightblue;
 }
-#sidebar-left, #main, #sidebar-right{
+sidebar-left, main, sidebar-right{
     min-height: 600px;
     font:14px Helvetica,Arial,sans-serif;		
 }
