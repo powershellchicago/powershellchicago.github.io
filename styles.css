@@ -18,6 +18,13 @@
 }
 .h1 {
     font-style: italic;
+    font: Helvetica, Arial, sans-serif;
+}
+.h2 {
+    font: Helvetica, Arial, sans-serif;
+}
+.h3 {
+    font: Helvetica, Arial, sans-serif;
 }
 #sidebar-right{
     float:left;
