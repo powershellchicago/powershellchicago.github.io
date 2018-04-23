@@ -14,6 +14,7 @@
     width:70%;
     /* background-color: lightgray; */
     align-self: auto;
+    font: 14px Helvetica, Arial, sans-serif;
 }
 .h1 {
     font-style: italic;
@@ -32,10 +33,4 @@
 }
 #sidebar-left, #main, #sidebar-right{
     min-height: 600px;
-<<<<<<< Updated upstream
-    font:14px Helvetica,Arial,sans-serif;
-    /* background-color: lightgray; */
-=======
-    font:14px Helvetica,Arial,sans-serif;		
->>>>>>> Stashed changes
 }
